@@ -10,7 +10,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("./images/bg-img.jng");
+  background-image: url("./images/bg-img.jpg");
   min-height: 100%;
 }
 
